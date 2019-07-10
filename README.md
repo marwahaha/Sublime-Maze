@@ -31,7 +31,7 @@ or use the shortcut `[SHIFT]+[ALT]+[M]`
 ## Future Improvement
  - add some coloring (done)
  - add maze generator (done)
- - persistent scoring (abandonned)
+ - persistent scoring (abandoned)
  - timer (done)
  - things to pick up for extra points
  - multiplayer race mode... in a long distant future (The future is here... and for performance reason the development of this feature was stopped - maintaining live rooms was slowing down sublime drastically :/ )
